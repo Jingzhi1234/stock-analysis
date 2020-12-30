@@ -32,19 +32,19 @@ by running step by step to find the error.
 
 - Run time screenshot of 2017 and 2018
 
-![2017](resources/2017.png)
-![2018](resources/2018.png)
+![2017](Resources/2017.png)
+![2018](Resources/2018.png)
 
 
 - images of code Results
 
-![2017c](resources/2017c.png)
-![2018c](resources/2018c.png)
+![2017c](Resources/2017c.png)
+![2018c](Resources/2018c.png)
 
 - Comparsion
 
-![2017a](resources/2017a.png)
-![2018a](resources/2018a.png)
+![2017a](Resources/2017a.png)
+![2018a](Resources/2018a.png)
 
 By comparing the runtime of refactor code with original module, our refactor runs
 much faster then the original code. The results of refactoring code is the exactly
